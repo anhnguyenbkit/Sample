@@ -1,0 +1,3 @@
+int a;
+int foo() {goo(foo());}
+int goo(int b) {goo(goo());}

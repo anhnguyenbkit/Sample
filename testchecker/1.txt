@@ -1,0 +1,4 @@
+class anhsf {
+	anh:int;
+	anh:int;
+}

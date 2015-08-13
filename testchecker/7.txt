@@ -1,0 +1,2 @@
+int foo() {goo(foo(),4);}
+int goo(int b,c) {goo(goo(4,2));}

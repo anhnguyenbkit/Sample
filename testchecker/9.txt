@@ -1,0 +1,2 @@
+int foo() {goo(foo(),2*4/4*2.0);}
+int goo(int b;float c) {goo(goo(4,2.0),4*2/2*2);}

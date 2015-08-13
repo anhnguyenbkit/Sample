@@ -1,0 +1,3 @@
+int a,b,c;
+float a(int m;float n) {}
+int goo(){}
